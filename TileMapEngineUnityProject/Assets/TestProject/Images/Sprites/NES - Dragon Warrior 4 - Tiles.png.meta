@@ -1,0 +1,2330 @@
+fileFormatVersion: 2
+guid: 1a3639ac8a63d6d4c89dcf9259681d44
+timeCreated: 1467596911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Dragon Warrior 4 - Tiles_0
+    21300002: NES - Dragon Warrior 4 - Tiles_1
+    21300004: NES - Dragon Warrior 4 - Tiles_2
+    21300006: NES - Dragon Warrior 4 - Tiles_3
+    21300008: NES - Dragon Warrior 4 - Tiles_4
+    21300010: NES - Dragon Warrior 4 - Tiles_5
+    21300012: NES - Dragon Warrior 4 - Tiles_6
+    21300014: NES - Dragon Warrior 4 - Tiles_7
+    21300016: NES - Dragon Warrior 4 - Tiles_8
+    21300018: NES - Dragon Warrior 4 - Tiles_9
+    21300020: NES - Dragon Warrior 4 - Tiles_10
+    21300022: NES - Dragon Warrior 4 - Tiles_11
+    21300024: NES - Dragon Warrior 4 - Tiles_12
+    21300026: NES - Dragon Warrior 4 - Tiles_13
+    21300028: NES - Dragon Warrior 4 - Tiles_14
+    21300030: NES - Dragon Warrior 4 - Tiles_15
+    21300032: NES - Dragon Warrior 4 - Tiles_17
+    21300034: NES - Dragon Warrior 4 - Tiles_18
+    21300036: NES - Dragon Warrior 4 - Tiles_19
+    21300038: NES - Dragon Warrior 4 - Tiles_20
+    21300040: NES - Dragon Warrior 4 - Tiles_21
+    21300042: NES - Dragon Warrior 4 - Tiles_22
+    21300044: NES - Dragon Warrior 4 - Tiles_23
+    21300046: NES - Dragon Warrior 4 - Tiles_24
+    21300048: NES - Dragon Warrior 4 - Tiles_25
+    21300050: NES - Dragon Warrior 4 - Tiles_26
+    21300052: NES - Dragon Warrior 4 - Tiles_27
+    21300054: NES - Dragon Warrior 4 - Tiles_30
+    21300056: NES - Dragon Warrior 4 - Tiles_31
+    21300058: NES - Dragon Warrior 4 - Tiles_32
+    21300060: NES - Dragon Warrior 4 - Tiles_33
+    21300062: NES - Dragon Warrior 4 - Tiles_34
+    21300064: NES - Dragon Warrior 4 - Tiles_35
+    21300066: NES - Dragon Warrior 4 - Tiles_36
+    21300068: NES - Dragon Warrior 4 - Tiles_37
+    21300070: NES - Dragon Warrior 4 - Tiles_38
+    21300072: NES - Dragon Warrior 4 - Tiles_39
+    21300074: NES - Dragon Warrior 4 - Tiles_40
+    21300076: NES - Dragon Warrior 4 - Tiles_41
+    21300078: NES - Dragon Warrior 4 - Tiles_42
+    21300080: NES - Dragon Warrior 4 - Tiles_43
+    21300082: NES - Dragon Warrior 4 - Tiles_44
+    21300084: NES - Dragon Warrior 4 - Tiles_45
+    21300086: NES - Dragon Warrior 4 - Tiles_46
+    21300088: NES - Dragon Warrior 4 - Tiles_47
+    21300090: NES - Dragon Warrior 4 - Tiles_48
+    21300092: NES - Dragon Warrior 4 - Tiles_49
+    21300094: NES - Dragon Warrior 4 - Tiles_50
+    21300096: NES - Dragon Warrior 4 - Tiles_51
+    21300098: NES - Dragon Warrior 4 - Tiles_52
+    21300100: NES - Dragon Warrior 4 - Tiles_53
+    21300102: NES - Dragon Warrior 4 - Tiles_54
+    21300104: NES - Dragon Warrior 4 - Tiles_55
+    21300106: NES - Dragon Warrior 4 - Tiles_56
+    21300108: NES - Dragon Warrior 4 - Tiles_57
+    21300110: NES - Dragon Warrior 4 - Tiles_58
+    21300112: NES - Dragon Warrior 4 - Tiles_59
+    21300114: NES - Dragon Warrior 4 - Tiles_60
+    21300116: NES - Dragon Warrior 4 - Tiles_61
+    21300118: NES - Dragon Warrior 4 - Tiles_62
+    21300120: NES - Dragon Warrior 4 - Tiles_63
+    21300122: NES - Dragon Warrior 4 - Tiles_64
+    21300124: NES - Dragon Warrior 4 - Tiles_65
+    21300126: NES - Dragon Warrior 4 - Tiles_66
+    21300128: NES - Dragon Warrior 4 - Tiles_67
+    21300130: NES - Dragon Warrior 4 - Tiles_68
+    21300132: NES - Dragon Warrior 4 - Tiles_69
+    21300134: NES - Dragon Warrior 4 - Tiles_70
+    21300136: NES - Dragon Warrior 4 - Tiles_71
+    21300138: NES - Dragon Warrior 4 - Tiles_72
+    21300140: NES - Dragon Warrior 4 - Tiles_73
+    21300142: NES - Dragon Warrior 4 - Tiles_74
+    21300144: NES - Dragon Warrior 4 - Tiles_75
+    21300146: NES - Dragon Warrior 4 - Tiles_76
+    21300148: NES - Dragon Warrior 4 - Tiles_77
+    21300150: NES - Dragon Warrior 4 - Tiles_78
+    21300152: NES - Dragon Warrior 4 - Tiles_79
+    21300154: NES - Dragon Warrior 4 - Tiles_80
+    21300156: NES - Dragon Warrior 4 - Tiles_81
+    21300158: NES - Dragon Warrior 4 - Tiles_82
+    21300160: NES - Dragon Warrior 4 - Tiles_83
+    21300162: NES - Dragon Warrior 4 - Tiles_84
+    21300164: NES - Dragon Warrior 4 - Tiles_85
+    21300166: NES - Dragon Warrior 4 - Tiles_86
+    21300168: NES - Dragon Warrior 4 - Tiles_87
+    21300170: NES - Dragon Warrior 4 - Tiles_88
+    21300172: NES - Dragon Warrior 4 - Tiles_89
+    21300174: NES - Dragon Warrior 4 - Tiles_90
+    21300176: NES - Dragon Warrior 4 - Tiles_91
+    21300178: NES - Dragon Warrior 4 - Tiles_92
+    21300180: NES - Dragon Warrior 4 - Tiles_93
+    21300182: NES - Dragon Warrior 4 - Tiles_94
+    21300184: NES - Dragon Warrior 4 - Tiles_95
+    21300186: NES - Dragon Warrior 4 - Tiles_96
+    21300188: NES - Dragon Warrior 4 - Tiles_97
+    21300190: NES - Dragon Warrior 4 - Tiles_98
+    21300192: NES - Dragon Warrior 4 - Tiles_99
+    21300194: NES - Dragon Warrior 4 - Tiles_100
+    21300196: NES - Dragon Warrior 4 - Tiles_101
+    21300198: NES - Dragon Warrior 4 - Tiles_102
+    21300200: NES - Dragon Warrior 4 - Tiles_103
+    21300202: NES - Dragon Warrior 4 - Tiles_104
+    21300204: NES - Dragon Warrior 4 - Tiles_105
+    21300206: NES - Dragon Warrior 4 - Tiles_106
+    21300208: NES - Dragon Warrior 4 - Tiles_107
+    21300210: NES - Dragon Warrior 4 - Tiles_108
+    21300212: NES - Dragon Warrior 4 - Tiles_109
+    21300214: NES - Dragon Warrior 4 - Tiles_110
+    21300216: NES - Dragon Warrior 4 - Tiles_111
+    21300218: NES - Dragon Warrior 4 - Tiles_112
+    21300220: NES - Dragon Warrior 4 - Tiles_113
+    21300222: NES - Dragon Warrior 4 - Tiles_114
+    21300224: NES - Dragon Warrior 4 - Tiles_115
+    21300226: NES - Dragon Warrior 4 - Tiles_116
+    21300228: NES - Dragon Warrior 4 - Tiles_117
+    21300230: NES - Dragon Warrior 4 - Tiles_118
+    21300232: NES - Dragon Warrior 4 - Tiles_119
+    21300234: NES - Dragon Warrior 4 - Tiles_120
+    21300236: NES - Dragon Warrior 4 - Tiles_121
+    21300238: NES - Dragon Warrior 4 - Tiles_122
+    21300240: NES - Dragon Warrior 4 - Tiles_123
+    21300242: NES - Dragon Warrior 4 - Tiles_124
+    21300244: NES - Dragon Warrior 4 - Tiles_125
+    21300246: NES - Dragon Warrior 4 - Tiles_126
+    21300248: NES - Dragon Warrior 4 - Tiles_127
+    21300250: NES - Dragon Warrior 4 - Tiles_128
+    21300252: NES - Dragon Warrior 4 - Tiles_129
+    21300254: NES - Dragon Warrior 4 - Tiles_130
+    21300256: NES - Dragon Warrior 4 - Tiles_131
+    21300258: NES - Dragon Warrior 4 - Tiles_132
+    21300260: NES - Dragon Warrior 4 - Tiles_133
+    21300262: NES - Dragon Warrior 4 - Tiles_134
+    21300264: NES - Dragon Warrior 4 - Tiles_135
+    21300266: NES - Dragon Warrior 4 - Tiles_136
+    21300268: NES - Dragon Warrior 4 - Tiles_137
+    21300270: NES - Dragon Warrior 4 - Tiles_138
+    21300272: NES - Dragon Warrior 4 - Tiles_139
+    21300274: NES - Dragon Warrior 4 - Tiles_140
+    21300276: NES - Dragon Warrior 4 - Tiles_141
+    21300278: NES - Dragon Warrior 4 - Tiles_142
+    21300280: NES - Dragon Warrior 4 - Tiles_143
+    21300282: NES - Dragon Warrior 4 - Tiles_144
+    21300284: NES - Dragon Warrior 4 - Tiles_145
+    21300286: NES - Dragon Warrior 4 - Tiles_146
+    21300288: NES - Dragon Warrior 4 - Tiles_147
+    21300290: NES - Dragon Warrior 4 - Tiles_148
+    21300292: NES - Dragon Warrior 4 - Tiles_149
+    21300294: NES - Dragon Warrior 4 - Tiles_150
+    21300296: NES - Dragon Warrior 4 - Tiles_151
+    21300298: NES - Dragon Warrior 4 - Tiles_152
+    21300300: NES - Dragon Warrior 4 - Tiles_153
+    21300302: NES - Dragon Warrior 4 - Tiles_154
+    21300304: NES - Dragon Warrior 4 - Tiles_155
+    21300306: NES - Dragon Warrior 4 - Tiles_156
+    21300308: NES - Dragon Warrior 4 - Tiles_157
+    21300310: NES - Dragon Warrior 4 - Tiles_158
+    21300312: NES - Dragon Warrior 4 - Tiles_159
+    21300314: NES - Dragon Warrior 4 - Tiles_160
+    21300316: NES - Dragon Warrior 4 - Tiles_161
+    21300318: NES - Dragon Warrior 4 - Tiles_162
+    21300320: NES - Dragon Warrior 4 - Tiles_163
+    21300322: NES - Dragon Warrior 4 - Tiles_164
+    21300324: NES - Dragon Warrior 4 - Tiles_165
+    21300326: NES - Dragon Warrior 4 - Tiles_166
+    21300328: NES - Dragon Warrior 4 - Tiles_167
+    21300330: NES - Dragon Warrior 4 - Tiles_168
+    21300332: NES - Dragon Warrior 4 - Tiles_169
+    21300334: NES - Dragon Warrior 4 - Tiles_170
+    21300336: NES - Dragon Warrior 4 - Tiles_171
+    21300338: NES - Dragon Warrior 4 - Tiles_172
+    21300340: NES - Dragon Warrior 4 - Tiles_173
+    21300342: NES - Dragon Warrior 4 - Tiles_174
+    21300344: NES - Dragon Warrior 4 - Tiles_175
+    21300346: NES - Dragon Warrior 4 - Tiles_176
+    21300348: NES - Dragon Warrior 4 - Tiles_177
+    21300350: NES - Dragon Warrior 4 - Tiles_178
+    21300352: NES - Dragon Warrior 4 - Tiles_179
+    21300354: NES - Dragon Warrior 4 - Tiles_180
+    21300356: NES - Dragon Warrior 4 - Tiles_181
+    21300358: NES - Dragon Warrior 4 - Tiles_182
+    21300360: NES - Dragon Warrior 4 - Tiles_183
+    21300362: NES - Dragon Warrior 4 - Tiles_184
+    21300364: NES - Dragon Warrior 4 - Tiles_185
+    21300366: NES - Dragon Warrior 4 - Tiles_186
+    21300368: NES - Dragon Warrior 4 - Tiles_187
+    21300370: NES - Dragon Warrior 4 - Tiles_188
+    21300372: NES - Dragon Warrior 4 - Tiles_189
+    21300374: NES - Dragon Warrior 4 - Tiles_190
+    21300376: NES - Dragon Warrior 4 - Tiles_191
+    21300378: NES - Dragon Warrior 4 - Tiles_192
+    21300380: NES - Dragon Warrior 4 - Tiles_193
+    21300382: NES - Dragon Warrior 4 - Tiles_194
+    21300384: NES - Dragon Warrior 4 - Tiles_195
+    21300386: NES - Dragon Warrior 4 - Tiles_196
+    21300388: NES - Dragon Warrior 4 - Tiles_197
+    21300390: NES - Dragon Warrior 4 - Tiles_198
+    21300392: NES - Dragon Warrior 4 - Tiles_199
+    21300394: NES - Dragon Warrior 4 - Tiles_200
+    21300396: NES - Dragon Warrior 4 - Tiles_201
+    21300398: NES - Dragon Warrior 4 - Tiles_202
+    21300400: NES - Dragon Warrior 4 - Tiles_203
+    21300402: NES - Dragon Warrior 4 - Tiles_204
+    21300404: NES - Dragon Warrior 4 - Tiles_205
+    21300406: NES - Dragon Warrior 4 - Tiles_206
+    21300408: NES - Dragon Warrior 4 - Tiles_207
+    21300410: NES - Dragon Warrior 4 - Tiles_208
+    21300412: NES - Dragon Warrior 4 - Tiles_209
+    21300414: NES - Dragon Warrior 4 - Tiles_210
+    21300416: NES - Dragon Warrior 4 - Tiles_211
+    21300418: NES - Dragon Warrior 4 - Tiles_212
+    21300420: NES - Dragon Warrior 4 - Tiles_213
+    21300422: NES - Dragon Warrior 4 - Tiles_214
+    21300424: NES - Dragon Warrior 4 - Tiles_215
+    21300426: NES - Dragon Warrior 4 - Tiles_216
+    21300428: NES - Dragon Warrior 4 - Tiles_217
+    21300430: NES - Dragon Warrior 4 - Tiles_218
+    21300432: NES - Dragon Warrior 4 - Tiles_219
+    21300434: NES - Dragon Warrior 4 - Tiles_220
+    21300436: NES - Dragon Warrior 4 - Tiles_16
+    21300438: NES - Dragon Warrior 4 - Tiles_28
+    21300440: NES - Dragon Warrior 4 - Tiles_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Dragon Warrior 4 - Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_179
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_180
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_181
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_182
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_184
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 83
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_187
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_188
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_189
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_190
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_191
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_192
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_193
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_194
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_195
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: NES - Dragon Warrior 4 - Tiles_200
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_201
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_202
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_203
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_204
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_205
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_209
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_210
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_211
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_212
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_213
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_214
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_215
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_216
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_217
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_218
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_219
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Dragon Warrior 4 - Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

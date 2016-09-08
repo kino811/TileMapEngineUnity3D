@@ -1,0 +1,2865 @@
+fileFormatVersion: 2
+guid: b7f19caa14cdd17448a45ee7849c9d29
+timeCreated: 1467473351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Final Fantasy 1 - Magic_0
+    21300002: NES - Final Fantasy 1 - Magic_1
+    21300004: NES - Final Fantasy 1 - Magic_2
+    21300006: NES - Final Fantasy 1 - Magic_3
+    21300008: NES - Final Fantasy 1 - Magic_4
+    21300010: NES - Final Fantasy 1 - Magic_5
+    21300012: NES - Final Fantasy 1 - Magic_6
+    21300014: NES - Final Fantasy 1 - Magic_7
+    21300016: NES - Final Fantasy 1 - Magic_8
+    21300018: NES - Final Fantasy 1 - Magic_9
+    21300020: NES - Final Fantasy 1 - Magic_10
+    21300022: NES - Final Fantasy 1 - Magic_11
+    21300024: NES - Final Fantasy 1 - Magic_12
+    21300026: NES - Final Fantasy 1 - Magic_13
+    21300028: NES - Final Fantasy 1 - Magic_14
+    21300030: NES - Final Fantasy 1 - Magic_15
+    21300032: NES - Final Fantasy 1 - Magic_16
+    21300034: NES - Final Fantasy 1 - Magic_17
+    21300036: NES - Final Fantasy 1 - Magic_18
+    21300038: NES - Final Fantasy 1 - Magic_19
+    21300040: NES - Final Fantasy 1 - Magic_20
+    21300042: NES - Final Fantasy 1 - Magic_21
+    21300044: NES - Final Fantasy 1 - Magic_22
+    21300046: NES - Final Fantasy 1 - Magic_23
+    21300048: NES - Final Fantasy 1 - Magic_24
+    21300050: NES - Final Fantasy 1 - Magic_25
+    21300052: NES - Final Fantasy 1 - Magic_26
+    21300054: NES - Final Fantasy 1 - Magic_27
+    21300056: NES - Final Fantasy 1 - Magic_28
+    21300058: NES - Final Fantasy 1 - Magic_29
+    21300060: NES - Final Fantasy 1 - Magic_30
+    21300062: NES - Final Fantasy 1 - Magic_31
+    21300064: NES - Final Fantasy 1 - Magic_32
+    21300066: NES - Final Fantasy 1 - Magic_33
+    21300068: NES - Final Fantasy 1 - Magic_34
+    21300070: NES - Final Fantasy 1 - Magic_35
+    21300072: NES - Final Fantasy 1 - Magic_36
+    21300074: NES - Final Fantasy 1 - Magic_37
+    21300076: NES - Final Fantasy 1 - Magic_38
+    21300078: NES - Final Fantasy 1 - Magic_39
+    21300080: NES - Final Fantasy 1 - Magic_40
+    21300082: NES - Final Fantasy 1 - Magic_41
+    21300084: NES - Final Fantasy 1 - Magic_42
+    21300086: NES - Final Fantasy 1 - Magic_43
+    21300088: NES - Final Fantasy 1 - Magic_44
+    21300090: NES - Final Fantasy 1 - Magic_45
+    21300092: NES - Final Fantasy 1 - Magic_46
+    21300094: NES - Final Fantasy 1 - Magic_47
+    21300096: NES - Final Fantasy 1 - Magic_48
+    21300098: NES - Final Fantasy 1 - Magic_49
+    21300100: NES - Final Fantasy 1 - Magic_50
+    21300102: NES - Final Fantasy 1 - Magic_51
+    21300104: NES - Final Fantasy 1 - Magic_52
+    21300106: NES - Final Fantasy 1 - Magic_53
+    21300108: NES - Final Fantasy 1 - Magic_54
+    21300110: NES - Final Fantasy 1 - Magic_55
+    21300112: NES - Final Fantasy 1 - Magic_56
+    21300114: NES - Final Fantasy 1 - Magic_57
+    21300116: NES - Final Fantasy 1 - Magic_58
+    21300118: NES - Final Fantasy 1 - Magic_59
+    21300120: NES - Final Fantasy 1 - Magic_60
+    21300122: NES - Final Fantasy 1 - Magic_61
+    21300124: NES - Final Fantasy 1 - Magic_62
+    21300126: NES - Final Fantasy 1 - Magic_63
+    21300128: NES - Final Fantasy 1 - Magic_64
+    21300130: NES - Final Fantasy 1 - Magic_65
+    21300132: NES - Final Fantasy 1 - Magic_66
+    21300134: NES - Final Fantasy 1 - Magic_67
+    21300136: NES - Final Fantasy 1 - Magic_68
+    21300138: NES - Final Fantasy 1 - Magic_69
+    21300140: NES - Final Fantasy 1 - Magic_70
+    21300142: NES - Final Fantasy 1 - Magic_71
+    21300144: NES - Final Fantasy 1 - Magic_72
+    21300146: NES - Final Fantasy 1 - Magic_73
+    21300148: NES - Final Fantasy 1 - Magic_74
+    21300150: NES - Final Fantasy 1 - Magic_75
+    21300152: NES - Final Fantasy 1 - Magic_76
+    21300154: NES - Final Fantasy 1 - Magic_77
+    21300156: NES - Final Fantasy 1 - Magic_78
+    21300158: NES - Final Fantasy 1 - Magic_79
+    21300160: NES - Final Fantasy 1 - Magic_80
+    21300162: NES - Final Fantasy 1 - Magic_81
+    21300164: NES - Final Fantasy 1 - Magic_82
+    21300166: NES - Final Fantasy 1 - Magic_83
+    21300168: NES - Final Fantasy 1 - Magic_84
+    21300170: NES - Final Fantasy 1 - Magic_85
+    21300172: NES - Final Fantasy 1 - Magic_86
+    21300174: NES - Final Fantasy 1 - Magic_87
+    21300176: NES - Final Fantasy 1 - Magic_88
+    21300178: NES - Final Fantasy 1 - Magic_89
+    21300180: NES - Final Fantasy 1 - Magic_90
+    21300182: NES - Final Fantasy 1 - Magic_91
+    21300184: NES - Final Fantasy 1 - Magic_92
+    21300186: NES - Final Fantasy 1 - Magic_93
+    21300188: NES - Final Fantasy 1 - Magic_94
+    21300190: NES - Final Fantasy 1 - Magic_95
+    21300192: NES - Final Fantasy 1 - Magic_96
+    21300194: NES - Final Fantasy 1 - Magic_97
+    21300196: NES - Final Fantasy 1 - Magic_98
+    21300198: NES - Final Fantasy 1 - Magic_99
+    21300200: NES - Final Fantasy 1 - Magic_100
+    21300202: NES - Final Fantasy 1 - Magic_101
+    21300204: NES - Final Fantasy 1 - Magic_102
+    21300206: NES - Final Fantasy 1 - Magic_103
+    21300208: NES - Final Fantasy 1 - Magic_104
+    21300210: NES - Final Fantasy 1 - Magic_105
+    21300212: NES - Final Fantasy 1 - Magic_106
+    21300214: NES - Final Fantasy 1 - Magic_107
+    21300216: NES - Final Fantasy 1 - Magic_108
+    21300218: NES - Final Fantasy 1 - Magic_109
+    21300220: NES - Final Fantasy 1 - Magic_110
+    21300222: NES - Final Fantasy 1 - Magic_111
+    21300224: NES - Final Fantasy 1 - Magic_112
+    21300226: NES - Final Fantasy 1 - Magic_113
+    21300228: NES - Final Fantasy 1 - Magic_114
+    21300230: NES - Final Fantasy 1 - Magic_115
+    21300232: NES - Final Fantasy 1 - Magic_116
+    21300234: NES - Final Fantasy 1 - Magic_117
+    21300236: NES - Final Fantasy 1 - Magic_118
+    21300238: NES - Final Fantasy 1 - Magic_119
+    21300240: NES - Final Fantasy 1 - Magic_120
+    21300242: NES - Final Fantasy 1 - Magic_121
+    21300244: NES - Final Fantasy 1 - Magic_122
+    21300246: NES - Final Fantasy 1 - Magic_123
+    21300248: NES - Final Fantasy 1 - Magic_124
+    21300250: NES - Final Fantasy 1 - Magic_125
+    21300252: NES - Final Fantasy 1 - Magic_126
+    21300254: NES - Final Fantasy 1 - Magic_127
+    21300256: NES - Final Fantasy 1 - Magic_128
+    21300258: NES - Final Fantasy 1 - Magic_129
+    21300260: NES - Final Fantasy 1 - Magic_130
+    21300262: NES - Final Fantasy 1 - Magic_131
+    21300264: NES - Final Fantasy 1 - Magic_132
+    21300266: NES - Final Fantasy 1 - Magic_133
+    21300268: NES - Final Fantasy 1 - Magic_134
+    21300270: NES - Final Fantasy 1 - Magic_135
+    21300272: NES - Final Fantasy 1 - Magic_136
+    21300274: NES - Final Fantasy 1 - Magic_137
+    21300276: NES - Final Fantasy 1 - Magic_138
+    21300278: NES - Final Fantasy 1 - Magic_139
+    21300280: NES - Final Fantasy 1 - Magic_140
+    21300282: NES - Final Fantasy 1 - Magic_141
+    21300284: NES - Final Fantasy 1 - Magic_142
+    21300286: NES - Final Fantasy 1 - Magic_143
+    21300288: NES - Final Fantasy 1 - Magic_144
+    21300290: NES - Final Fantasy 1 - Magic_145
+    21300292: NES - Final Fantasy 1 - Magic_146
+    21300294: NES - Final Fantasy 1 - Magic_147
+    21300296: NES - Final Fantasy 1 - Magic_148
+    21300298: NES - Final Fantasy 1 - Magic_149
+    21300300: NES - Final Fantasy 1 - Magic_150
+    21300302: NES - Final Fantasy 1 - Magic_151
+    21300304: NES - Final Fantasy 1 - Magic_152
+    21300306: NES - Final Fantasy 1 - Magic_153
+    21300308: NES - Final Fantasy 1 - Magic_154
+    21300310: NES - Final Fantasy 1 - Magic_155
+    21300312: NES - Final Fantasy 1 - Magic_156
+    21300314: NES - Final Fantasy 1 - Magic_157
+    21300316: NES - Final Fantasy 1 - Magic_158
+    21300318: NES - Final Fantasy 1 - Magic_159
+    21300320: NES - Final Fantasy 1 - Magic_160
+    21300322: NES - Final Fantasy 1 - Magic_161
+    21300324: NES - Final Fantasy 1 - Magic_162
+    21300326: NES - Final Fantasy 1 - Magic_163
+    21300328: NES - Final Fantasy 1 - Magic_164
+    21300330: NES - Final Fantasy 1 - Magic_165
+    21300332: NES - Final Fantasy 1 - Magic_166
+    21300334: NES - Final Fantasy 1 - Magic_167
+    21300336: NES - Final Fantasy 1 - Magic_168
+    21300338: NES - Final Fantasy 1 - Magic_169
+    21300340: NES - Final Fantasy 1 - Magic_170
+    21300342: NES - Final Fantasy 1 - Magic_171
+    21300344: NES - Final Fantasy 1 - Magic_172
+    21300346: NES - Final Fantasy 1 - Magic_173
+    21300348: NES - Final Fantasy 1 - Magic_174
+    21300350: NES - Final Fantasy 1 - Magic_175
+    21300352: NES - Final Fantasy 1 - Magic_176
+    21300354: NES - Final Fantasy 1 - Magic_177
+    21300356: NES - Final Fantasy 1 - Magic_178
+    21300358: NES - Final Fantasy 1 - Magic_179
+    21300360: NES - Final Fantasy 1 - Magic_180
+    21300362: NES - Final Fantasy 1 - Magic_181
+    21300364: NES - Final Fantasy 1 - Magic_182
+    21300366: NES - Final Fantasy 1 - Magic_183
+    21300368: NES - Final Fantasy 1 - Magic_184
+    21300370: NES - Final Fantasy 1 - Magic_185
+    21300372: NES - Final Fantasy 1 - Magic_186
+    21300374: NES - Final Fantasy 1 - Magic_187
+    21300376: NES - Final Fantasy 1 - Magic_188
+    21300378: NES - Final Fantasy 1 - Magic_189
+    21300380: NES - Final Fantasy 1 - Magic_190
+    21300382: NES - Final Fantasy 1 - Magic_191
+    21300384: NES - Final Fantasy 1 - Magic_192
+    21300386: NES - Final Fantasy 1 - Magic_193
+    21300388: NES - Final Fantasy 1 - Magic_194
+    21300390: NES - Final Fantasy 1 - Magic_195
+    21300392: NES - Final Fantasy 1 - Magic_196
+    21300394: NES - Final Fantasy 1 - Magic_197
+    21300396: NES - Final Fantasy 1 - Magic_198
+    21300398: NES - Final Fantasy 1 - Magic_199
+    21300400: NES - Final Fantasy 1 - Magic_200
+    21300402: NES - Final Fantasy 1 - Magic_201
+    21300404: NES - Final Fantasy 1 - Magic_202
+    21300406: NES - Final Fantasy 1 - Magic_203
+    21300408: NES - Final Fantasy 1 - Magic_204
+    21300410: NES - Final Fantasy 1 - Magic_205
+    21300412: NES - Final Fantasy 1 - Magic_206
+    21300414: NES - Final Fantasy 1 - Magic_207
+    21300416: NES - Final Fantasy 1 - Magic_208
+    21300418: NES - Final Fantasy 1 - Magic_209
+    21300420: NES - Final Fantasy 1 - Magic_210
+    21300422: NES - Final Fantasy 1 - Magic_211
+    21300424: NES - Final Fantasy 1 - Magic_212
+    21300426: NES - Final Fantasy 1 - Magic_213
+    21300428: NES - Final Fantasy 1 - Magic_214
+    21300430: NES - Final Fantasy 1 - Magic_215
+    21300432: NES - Final Fantasy 1 - Magic_216
+    21300434: NES - Final Fantasy 1 - Magic_217
+    21300436: NES - Final Fantasy 1 - Magic_218
+    21300438: NES - Final Fantasy 1 - Magic_219
+    21300440: NES - Final Fantasy 1 - Magic_220
+    21300442: NES - Final Fantasy 1 - Magic_221
+    21300444: NES - Final Fantasy 1 - Magic_222
+    21300446: NES - Final Fantasy 1 - Magic_223
+    21300448: NES - Final Fantasy 1 - Magic_224
+    21300450: NES - Final Fantasy 1 - Magic_225
+    21300452: NES - Final Fantasy 1 - Magic_226
+    21300454: NES - Final Fantasy 1 - Magic_227
+    21300456: NES - Final Fantasy 1 - Magic_228
+    21300458: NES - Final Fantasy 1 - Magic_229
+    21300460: NES - Final Fantasy 1 - Magic_230
+    21300462: NES - Final Fantasy 1 - Magic_231
+    21300464: NES - Final Fantasy 1 - Magic_232
+    21300466: NES - Final Fantasy 1 - Magic_233
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 0
+  textureType: 0
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Final Fantasy 1 - Magic_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_72
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_74
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_76
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_77
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_89
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_92
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_96
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_97
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_98
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_99
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_100
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_101
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_102
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_103
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_106
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_107
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_108
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_112
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_114
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_115
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_116
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_117
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_120
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_122
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_123
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_124
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_125
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_126
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_127
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_128
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_129
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_131
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_132
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_134
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_135
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_136
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_137
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_138
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_139
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_140
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_141
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_143
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_146
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_147
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_148
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_149
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_150
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_151
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_152
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_153
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_154
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_155
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_157
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_158
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_159
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_160
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_161
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_163
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_164
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_165
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_166
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_167
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_168
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_169
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_170
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_172
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_173
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_174
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_175
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_176
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_177
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_178
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_179
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_180
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_181
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_182
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_183
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_184
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_185
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_186
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_187
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_188
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_190
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_191
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_192
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_193
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_195
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_196
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_198
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_199
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_200
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_201
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_202
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_203
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_204
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_205
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_206
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_207
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_209
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_210
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_211
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_212
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_213
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_214
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_215
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_216
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_217
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_218
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_219
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_220
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_221
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_222
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_223
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_224
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_225
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_226
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_227
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_228
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_229
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_230
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_231
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_232
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: NES - Final Fantasy 1 - Magic_233
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

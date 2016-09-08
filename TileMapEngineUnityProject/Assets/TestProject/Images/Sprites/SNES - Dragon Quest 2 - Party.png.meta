@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: a9c137a76eb904fa9982814141a4efe9
+timeCreated: 1469610129
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KnightFront0
+    21300002: SNES - Dragon Quest 2 - Party_1
+    21300004: SNES - Dragon Quest 2 - Party_2
+    21300006: SNES - Dragon Quest 2 - Party_3
+    21300008: SNES - Dragon Quest 2 - Party_4
+    21300010: SNES - Dragon Quest 2 - Party_5
+    21300012: SNES - Dragon Quest 2 - Party_6
+    21300014: SNES - Dragon Quest 2 - Party_7
+    21300016: SNES - Dragon Quest 2 - Party_8
+    21300018: SNES - Dragon Quest 2 - Party_9
+    21300020: SNES - Dragon Quest 2 - Party_10
+    21300022: SNES - Dragon Quest 2 - Party_11
+    21300024: KnightFront1
+    21300026: KnightBack0
+    21300028: KnightBack1
+    21300030: KnightRight0
+    21300032: KnightRight1
+    21300034: KnightLeft0
+    21300036: KnightLeft1
+    21300038: MagicKnightLeft0
+    21300040: MagicKnightLeft1
+    21300042: MagicKnightRight0
+    21300044: MagicKnightRight1
+    21300046: MagicKnightBack0
+    21300048: MagicKnightBack1
+    21300050: MagicKnightFront0
+    21300052: MagicKnightFront1
+    21300054: MagicianLeft0
+    21300056: MagicianLeft1
+    21300058: MagicianRight0
+    21300060: MagicianRight1
+    21300062: MagicianBack0
+    21300064: MagicianBack1
+    21300066: MagicianFront0
+    21300068: MagicianFront1
+    21300070: Dead
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KnightFront0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightFront1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightBack0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightBack1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightRight0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightRight1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightLeft0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: KnightLeft1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightLeft0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightLeft1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightRight0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightRight1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightBack0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightBack1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightFront0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicKnightFront1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianLeft0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianLeft1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianRight0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianRight1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 182
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianBack0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianBack1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianFront0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MagicianFront1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Dead
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline:
+    - - {x: 59.5, y: 272}
+      - {x: 111.02851, y: 67.99999}
+      - {x: 7.971485, y: 68.000015}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
