@@ -42,7 +42,7 @@ TileMapEngineUnityProject 가 Unity 5.3 으로 작업된 유니티 프로젝트.
 
 Assets/TestProject/Scenes/BattleScene.unity 해당 씬을 열어서 테스트 프로그램을 확인할수 있다.
 
-![Test Project Screenshot](images/TestProjectScreenshot.png)
+![Test Project Screenshot](Images/TestProjectScreenshot.png)
 
 ---
 
